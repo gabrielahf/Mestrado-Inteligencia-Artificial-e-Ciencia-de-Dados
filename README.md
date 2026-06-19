@@ -1,1 +1,1 @@
-# Mestrado-Inteligencia-Artificial-e-Ciencia-de-Dados
+# Mestrado Integrado em Inteligencia Artificial e Ciencia de Dados
