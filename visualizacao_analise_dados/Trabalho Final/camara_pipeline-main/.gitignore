@@ -1,0 +1,38 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Caches and checkpoints
+.ipynb_checkpoints/
+
+# Virtual environments
+.venv/
+.env
+.env.example
+
+# Data folders
+data/processed/
+data/raw/
+
+# Logs
+*.log
+
+# Python egg files
+*.egg
+*.egg-info/
+dist/
+build/
+eggs/
+*.manifest
+*.spec
+
+# IDE/editor configs
+.vscode/
+.idea/
+
+# Misc
+*.py~ 
+*.swp
+.DS_Store
+*.zip
